@@ -1,3 +1,3 @@
-# pdfview
+# Fileviewer
 
-A new Flutter project.
+A simple File viewer in Flutter that can preview Pdf and Excelfiles
